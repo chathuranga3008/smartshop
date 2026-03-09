@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">SmartShop Customer</string>
+    <string name="app_version">v1.0.0</string>
+    <string name="app_copy">"@ NR 2023"</string>
+
+    <string name="web_client_id">179071301657-pmi5dt5nen666a0a0l5cb2fiooi52t4l.apps.googleusercontent.com</string>
+    <string name="android_client_id">179071301657-s9f8sn8kgbg2er3io10pa1l6od08s5ba.apps.googleusercontent.com</string>
+
+    <string name="search_hint">Search</string>
+    <string name="bottom_nav_home_title">Home</string>
+    <string name="bottom_nav_category_title">Category</string>
+    <string name="bottom_nav_cart_title">Cart</string>
+    <string name="bottom_nav_account_title">Account</string>
+    <string name="side_nav_home_title">Home</string>
+    <string name="side_nav_profile_title">Profile</string>
+    <string name="side_nav_orders_title">Orders</string>
+    <string name="side_nav_messages_title">Messages</string>
+    <string name="side_nav_settings_title">Settings</string>
+    <string name="side_nav_login_title">Login</string>
+    <string name="side_nav_logout_title">Logout</string>
+
+    <string name="drawer_open">Open Navigation Drawer</string>
+    <string name="drawer_close">Close Navigation Drawer</string>
+
+    <string name="login_alt_prompt">- Or Sign In with -</string>
+    <string name="login_signup_prompt">Don\'t have an Account?</string>
+    <string name="login_signin_prompt">Sign In to Your Account</string>
+    <string name="register_signup_prompt">Create New Account</string>
+
+    <string name="email_text">Email</string>
+    <string name="password_text">Password</string>
+    <string name="signin_button_text">Sign in</string>
+    <string name="signup_button_text">Sign up</string>
+    <string name="first_name_text">First Name</string>
+    <string name="last_name_text">Last Name</string>
+    <string name="password_confirm_text">Confirm Password</string>
+    <string name="mobile_text">Mobile</string>
+
+    <string name="purchase_button_text">Buy Now</string>
+    <string name="atc_button_text">Add To Cart</string>
+</resources>
