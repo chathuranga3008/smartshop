@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.SmartShopAdmin" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/info</item>
+    </style>
+
+    <style name="Theme.SmartShopAdmin" parent="Base.Theme.SmartShopAdmin" />
+
+    <style name="Theme.SmartShopAdmin.FullScreen" parent="Base.Theme.SmartShopAdmin">
+        <item name="backgroundColor">@color/white</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>
